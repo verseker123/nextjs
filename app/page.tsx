@@ -37,15 +37,15 @@ export default function Home() {
 
     <nav>
         <ul className="tc _o sf yo cg ep">
-          <li><a href="index.html">Home</a></li>
-          <li><a href="index.html#features" className="xl">Features</a></li>
+          <li><a href="index.html">Inicio</a></li>
+          <li><a href="index.html#features" className="xl">Primaria</a></li>
           <li className="c i" x-data="{ dropdown: false }">
             <a
               href="#"
               className="xl tc wf yf bg"
               
             >
-              Pages
+              Secundaria
 
               <svg
               
@@ -62,7 +62,7 @@ export default function Home() {
               <li><a href="404.html" className="xl" >404</a></li>
             </ul>
           </li>
-          <li><a href="index.html#support" className="xl">Support</a></li>
+          <li><a href="index.html#support" className="xl">Ayudo</a></li>
         </ul>
       </nav>
        
@@ -83,18 +83,20 @@ export default function Home() {
   <div className="bb ze ki xn 2xl:ud-px-0">
     <div className="tc _o">
       <div className="animate_left jn/2">
-        <h1 className="fk vj zp or kk wm wb">We specialize in UI/UX, Web Development, Digital Marketing.</h1>
+        <h1 className="fk vj zp or kk wm wb">TRILCE. Portal de Tareas.</h1>
         <p className="fq">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque fringilla magna mauris. Nulla fermentum viverra sem eu rhoncus consequat varius nisi quis, posuere magna.
+        Educación de excelencia, forjando el futuro juntos.
+        Nuestro enfoque no solo es académico, sino también en el crecimiento personal y la adquisición de habilidades que serán fundamentales en la vida de nuestros estudiantes. En el Colegio Trilce, fomentamos la curiosidad, la creatividad y el espíritu crítico, todo en un entorno de apoyo y respeto mutuo.
+
         </p>
 
         <div className="tc tf yo zf mb">
           <a href="#" className="ek jk lk gh gi hi rg ml il vc _d _l"
-            >Get Started Now </a>
+            >Empieza Ahora </a>
 
           <span className="tc sf">
-            <a href="#" className="inline-block ek xj kk wm"> Call us (0123) 456 – 789 </a>
-            <span className="inline-block">For any question or concern</span>
+            <a href="#" className="inline-block ek xj kk wm"> Lamanos (0123) 456 – 789 </a>
+            <span className="inline-block">Para cualquier pregunta o inquietud</span>
           </span>
         </div>
       </div>
