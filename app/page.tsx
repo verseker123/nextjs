@@ -77,7 +77,7 @@ export default function Home() {
     <Image src="images/shape-02.svg" alt="shape" className="xc 2xl:ud-block h u p va" />
     <Image src="images/shape-03.svg" alt="shape" className="xc 2xl:ud-block h v w va" />
     <Image src="images/shape-04.svg" alt="shape" className="h q r" />
-    <Image src="images/herp.png" alt="Woman" className="h q r ua" />
+    <Image src="images/hero.png" alt="Woman" className="h q r ua" />
   </div>
 
   <div className="bb ze ki xn 2xl:ud-px-0">
