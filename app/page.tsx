@@ -62,7 +62,7 @@ export default function Home() {
               <li><a href="404.html" className="xl" >404</a></li>
             </ul>
           </li>
-          <li><a href="index.html#support" className="xl">Ayudo</a></li>
+          <li><a href="index.html#support" className="xl">Ayuda</a></li>
         </ul>
       </nav>
        
@@ -83,8 +83,8 @@ export default function Home() {
   <div className="bb ze ki xn 2xl:ud-px-0">
     <div className="tc _o">
       <div className="animate_left jn/2">
-        <h1 className="fk vj zp or kk wm wb">TRILCE. Portal de Tareas.</h1>
-        <p className="fq">
+        <h1 className="fk vj zp or kk wm wb">TRILCE: Portal de Tareas.</h1>
+        <p className="fq"  style={{ textAlign: 'justify' }}>
         Educación de excelencia, forjando el futuro juntos.
         Nuestro enfoque no solo es académico, sino también en el crecimiento personal y la adquisición de habilidades que serán fundamentales en la vida de nuestros estudiantes. En el Colegio Trilce, fomentamos la curiosidad, la creatividad y el espíritu crítico, todo en un entorno de apoyo y respeto mutuo.
 
